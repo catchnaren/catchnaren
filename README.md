@@ -1,8 +1,8 @@
 # Hi there, I'm Naren! 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=catchnaren&show_icons=true&theme=tokyonight" />
+<img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=catchnaren&show_icons=true&theme=prussian" />
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catchnaren&layout=compact" />
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catchnaren&layout=compact" />
 
 ---
 
@@ -12,6 +12,8 @@
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <br />
 <img align="left" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<br />
+<img align="left" alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <br />
 <img align="left" alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <br />
@@ -36,6 +38,8 @@
 <img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 <br />
 <img align="left" alt="heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+<br />
+<img align="left" alt="netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 <br />
 <img align="left" alt="vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 <br />
